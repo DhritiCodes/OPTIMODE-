@@ -1,2 +1,2 @@
 # OPTIMODE-
-Custom chrome extension
+Custom chrome productivity extension
